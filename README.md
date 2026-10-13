@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ShadhirAmeen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Full-stack+%7C+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+fastapi;Mobile+apps+with+flutter+and+kotlin;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Backend+Infrastructure;Full-Stack+Development;Cloud+Infrastructure;DevSecOps;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ const shadhir = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-seven.vercel.app/graph?username=ShadhirAmeen&hide_border=true&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&cache_seconds=1800" />
+  <img width="100%" src="./metrics.plugin.isocalendar.svg" alt="Contribution calendar" />
 </p>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
